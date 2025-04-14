@@ -16,8 +16,13 @@
 
 - Darwin Smith
 - Haoting Huang
-- JayLynne Redeaux
 - Nick Nguyen
+  
+JayLynne Redeaux 👺
+- Major(s): Computer science & Cognitive Science 👾
+- Fun Fact: I have two kitties and they are my world. 😺
+- [GitHub](https://github.com/Jredeaux1)
+
 
 Pranay Jha 🌧️
 - Major: Computer Engineering 🤓
